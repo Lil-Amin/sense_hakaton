@@ -11,12 +11,12 @@ import pandas as pd
 class TransformedData:
     vacancy_id: str
     vacancy_main_keywords: list[str]
-    # vacancy_sub_keywords: list[str]
+    vacancy_description: str
     resume_id: str
     requested_experience: int
     is_english: bool
     resume_main_keywords: list[str]
-    # resume_sub_keywords: list[str]
+    resume_description: str
     edu: list[str]
     resume_experience: int
     target: int
@@ -68,6 +68,14 @@ def get_data(vacancy: Vacancy, resume: Resume, target: bool | None) -> dict[str,
     else:
         data.resume_experience = 0
     data.target = target
+    data.vacancy_description = " ".join(
+        map(lambda x: x.lower().strip(), filter(lambda x: x and x != '', [vacancy.description, vacancy.comment]))
+    )
+    data.resume_description = ""
+    if  resume.experienceItem:
+        for item in resume.experienceItem:
+            if item.description:
+                data.resume_description += item.description.lower().strip()
     return data.__dict__
 
 
@@ -97,7 +105,16 @@ def process_data(data: pd.DataFrame) -> pd.DataFrame:
 
 def data_to_output(data: pd.DataFrame) -> pd.DataFrame:
     output = data[
-        ['vacancy_id', 'resume_id', 'requested_experience', 'is_english', 'edu', 'target', 'resume_experience']
+        ['vacancy_id',
+         'resume_id',
+         'requested_experience',
+         'is_english',
+         'edu',
+         'target',
+         'resume_experience',
+         'resume_description',
+         'vacancy_description',
+         ]
     ].copy()
     output['vacancy_main_keywords'] = data['vacancy_main_keywords'].apply(lambda x: ' '.join(x))
     output['resume_main_keywords'] = data['resume_main_keywords'].apply(lambda x: ' '.join(x))
