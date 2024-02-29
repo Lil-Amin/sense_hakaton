@@ -1,0 +1,114 @@
+vacancy_id,resume_id,requested_experience,is_english,edu,target,resume_experience,vacancy_main_keywords,resume_main_keywords
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,0dfe8e63-d7a3-3fe4-b9d7-1b8122158f33,4,True,relevant_high,,4,java разработчик,spring framework hibernate orm postgresql kotlin
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,f8b69e24-e2c0-3186-9578-380835eb2ee7,4,False,no,,10,java разработчик,apache maven apache tomcat apache kafka rabbitmq docker kubernetes openshift mysql sql oracle hibernate liquibase elasticsearch intellij idea lombok junit mockito jenkins jira
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,e3976e74-e71b-34db-8e98-08dc422fa567,4,True,relevant_high,,4,java разработчик,postgresql mockito maven rest hibernate docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,9a9c3ff1-49f8-30dd-a294-e56fc60cae64,4,True,courses,,10,java разработчик,spring framework intellij idea java javascript sql hibernate orm git apache tomcat apache maven postgresql jdbc ооп junit rest
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,6561771c-7ef3-3e50-ab3a-ba8547201480,4,True,relevant_high,,9,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,5ae3b7a0-6028-3bd8-8b4e-27a861503806,4,False,relevant_high,,3,java разработчик,java spring framework spring boot apache kafka mongodb docker hibernate elasticsearch postgresql git gitlab
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,6cf3cee0-c911-30f6-b254-416029f8af3b,4,True,relevant_high,,6,java разработчик,git postgresql docker java hibernate oracle
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,8e456229-6e4e-3d57-a90e-ae4c3e1db869,4,False,relevant_high,,5,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,d587e742-f07f-3037-b412-ac12c89f6e6a,4,False,relevant_high,,4,java разработчик,java spring boot kafka oracle postgresql maven hibernate orm rabbitmq junit mockito intellij idea git gitlab lombok sql jira ооп
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,5785c202-6744-3e1b-994a-d5bffc6aad14,4,False,relevant_high,,4,java разработчик,java spring framework spring boot spring data postgresql mysql kafka hibernate docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,0fc31d5b-a567-3753-8214-9899923545d0,4,False,relevant_high,,7,java разработчик,kotlin java spring framework spring boot elasticsearch docker kafka postgresql mysql sql hibernate git
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,d6c4ef10-657d-30b3-80d0-4cf1dda65c4e,4,False,relevant_high,,3,java разработчик,java kotlin spring framework spring boot sql apache kafka kubernetes postgresql docker hibernate
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,6abae195-2cbf-3bbe-8dfb-8d2dcc3e88b6,4,True,relevant_high,,17,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,989b9e34-1ee0-3fa0-8ac8-b4617d7444b7,4,False,no,,4,java разработчик,java spring framework sql git postgresql hibernate orm apache maven linux rest junit docker atlassian jira jdbc kafka spring boot mongodb rabbitmq jpa jenkins openshift redis gradle elasticsearch kubernetes
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,794b93d6-2bea-3e7f-add7-b56fc6f4ae06,4,True,relevant_high,,5,java разработчик,ооп apache maven spring framework spring boot sql postgresql git atlassian jira jpa junit mockito jdbc kafka spring data rest java oracle intellij idea gitlab lombok gradle jenkins docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,9fe9cded-6120-384e-8f9a-96ce33bc99dd,4,True,relevant_high,,14,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,1e0e14bd-34a8-34a3-b17a-d13a9a29ed22,4,False,relevant_high,,4,java разработчик,mongodb redis docker elk kafka docker git rest ооп mysql kotlin hibernate
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,aff4b709-ccd2-340a-949f-84b1bb7eb260,4,False,relevant_high,,4,java разработчик,java ооп sql spring boot kubernetes elasticsearch apache kafka kotlin postgresql
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,9cef8747-af3a-3833-9098-3bfabf1e40eb,4,True,relevant_high,,8,java разработчик,java spring framework git sql apache maven linux rest junit atlassian jira spring boot jdbc intellij idea jenkins maven hibernate lombok
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,c2a6bf5a-45ca-3f79-93ff-355a724b65df,4,True,relevant_high,,5,java разработчик,java spring boot kotlin postgresql kafka openshift
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,f03552d8-e216-300d-9548-4c0541a9c5b8,4,False,no,,5,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,1f1809fd-fde5-3720-a5dc-02f1160f53a9,4,False,no,,2,java разработчик,mysql sql java hibernate git spring boot docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,a67850f6-abd4-35ab-a3b0-0de92d2e2293,4,False,relevant_high,,10,java разработчик,apache maven apache tomcat apache kafka rabbitmq docker kubernetes openshift mysql sql oracle hibernate liquibase elasticsearch intellij idea lombok junit mockito jenkins git jira
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,9a802e9b-87ee-3471-973e-3ce544e6de25,4,False,relevant_high,,3,java разработчик,java jpa liquibase junit mockito maven gradle postgresql kafka docker kubernetes git rest
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,6065ee07-4c42-3cf4-8e45-9d053b9041f7,4,True,relevant_high,,6,java разработчик,apache maven junit sql spring framework intellij idea ооп git hibernate orm jpa postgresql apache tomcat atlassian jira kotlin lombok mockito rabbitmq rest gradle
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,42eae4bf-4826-3105-b197-dc0afb063714,4,False,relevant_high,,5,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,a71b0749-1ebc-3099-b0a1-342ca64d1575,4,False,relevant_high,,13,java разработчик,java kafka docker kubernetes
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,ae797830-f7a6-38f3-abf8-e1dc6cf3b6c3,4,True,relevant_high,,4,java разработчик,java spring framework spring boot spring boot docker apache maven jdbc hibernate orm junit intellij idea apache tomcat postgresql linux
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,0cfa3d00-10b5-38d5-b166-329ff6f4598b,4,True,relevant_high,,4,java разработчик,sql java mysql docker spring framework rest jenkins hibernate orm git postgresql jdbc gradle junit mongodb spring data mockito liquibase
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,2cf91680-b719-3f92-9a56-dbbc9cd17b6c,4,False,no,,4,java разработчик,java ооп git hibernate sql mysql apache maven spring boot mockito
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,5cfd26bc-84e6-3714-b54b-746acbca3d18,4,False,relevant_high,,12,java разработчик,java spring framework spring boot postgresql kafka apache maven openshift hibernate orm liquibase jenkins jdbc junit mockito git gitlab jira
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,7a79f64e-7a87-3008-b8ec-e165a94f72e0,4,False,relevant_high,,8,java разработчик,java kafka spring boot intellij idea elk liquibase git postgresql
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,6099f6cb-1897-3983-9afb-a71b37ebdc7b,4,False,relevant_high,,3,java разработчик,java git docker postgresql spring boot apache kafka hibernate junit
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,e58e684a-509e-33c6-b88c-6d3c07d348bb,4,True,relevant_high,,5,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,f2094a17-764b-3cba-8a2f-cf25ce4d1100,4,True,relevant_high,,5,java разработчик,git intellij idea spring framework postgresql apache maven
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,70547288-56fc-3cab-9bef-f752f2e1b21f,4,False,relevant_high,,8,java разработчик,java kotlin maven openshift jenkins hibernate oracle gradle git junit mockito
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,b1357f8e-3c98-3142-81e7-fd729ec50ca0,4,False,relevant_high,,10,java разработчик,java kotlin kubernetes spring boot kafka gradle sql jenkins redis rest gitlab
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,63b33138-5045-31fc-878b-65672a829658,4,True,relevant_high,,3,java разработчик,kotlin java spring boot git junit postgresql hibernate mongodb docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,099b1c65-c060-3f5d-87cf-42bda251c3ea,4,True,relevant_high,,13,java разработчик,java git mysql apache maven junit apache tomcat gradle spring framework hibernate kafka kotlin
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,fd9c4130-177f-3546-8974-189a52fcc496,4,False,relevant_high,,7,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,2444cdfb-370c-3f84-b97b-9462255688f2,4,False,relevant_high,,8,java разработчик,java sql ооп spring framework postgresql hibernate orm git rest apache tomcat kafka apache maven mvc
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,8b1dc5d0-dde1-31be-851f-a643ae235d50,4,True,relevant_high,,4,java разработчик,java hibernate sql git apache maven apache kafka apache tomcat jira
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,639c1eda-c4ec-3319-b2e2-17ad5d87e173,4,True,relevant_high,,3,java разработчик,elk postgresql oracle elasticsearch kafka docker kubernetes
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,8e193a9a-d338-36b5-800b-45de7a809157,4,False,relevant_high,,8,java разработчик,java spring framework spring boot postgresql mongodb docker mvc
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,f56395de-af47-3f65-90e9-37d44ea07610,4,False,relevant_high,,6,java разработчик,kotlin spring boot spring data elasticsearch postgresql mysql hibernate gitlab
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,3c4020e7-172f-3ed5-adc9-fe9a62097b26,4,False,relevant_high,,7,java разработчик,sql java git javascript oracle kotlin spring framework hibernate orm postgresql
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,cc683ed5-8db5-32da-9eab-9433a539b3b5,4,False,relevant_high,,6,java разработчик,java kotlin sql spring boot git maven docker javascript hibernate rabbitmq gradle kubernetes apache kafka
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,eb02a87d-d829-36bc-9006-11bceef0ffeb,4,False,relevant_high,,11,java разработчик,java spring boot
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,add58503-f251-3291-8bc6-e57afe7fe86d,4,False,relevant_high,,9,java разработчик,java kotlin spring boot postgresql kafka docker openshift kubernetes rest rest mongodb rabbitmq redis gradle jenkins gitlab
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,c83fb1c9-2b90-3dab-9d53-05a883e3e0b7,4,False,relevant_high,,4,java разработчик,java kotlin spring boot apache kafka redis apache maven rabbitmq sql postgresql oracle hibernate liquibase rest git jenkins atlassian jira
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,65b737a6-85cf-33e6-9475-e5164799b35b,4,True,no,,4,java разработчик,java hibernate orm docker postgresql redis kafka apache maven openshift kubernetes redis rabbitmq junit mockito jenkins git sql mysql rest jira
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,592ec449-a3b0-3a40-afdc-2cf78ef8291e,4,False,relevant_high,,5,java разработчик,java spring boot sql postgresql rest docker git
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,148b41b3-3504-3550-9783-145eba1be802,4,True,relevant_high,,4,java разработчик,spring framework java git sql hibernate orm postgresql apache maven ооп rest intellij idea junit atlassian jira jpa spring boot spring data kafka elk kotlin openshift jenkins docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,6eaade34-b13c-3d17-a573-dfa786cbb0d5,4,True,relevant_high,,8,java разработчик,mvc jdbc git docker mockito maven jenkins kubernetes
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,ff2a61d1-b70b-352b-8f08-ebc0a84de7ca,4,True,relevant_high,,21,java разработчик,java mysql postgresql spring framework spring boot hibernate orm git apache maven ооп rabbitmq mongodb oracle
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,7c95a4d3-d958-3e1e-9075-69eae00c5795,4,False,courses,,4,java разработчик,java kotlin spring boot junit mockito maven hibernate postgresql elasticsearch docker git
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,653dadb9-5c19-3f6a-8207-7e55e7db331a,4,True,relevant_high,,18,java разработчик,java sql git
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,19c83c9c-d35b-365d-959b-7efe82a306ea,4,False,relevant_high,,5,java разработчик,git sql hibernate orm linux apache maven gradle rabbitmq redis atlassian jira rest elasticsearch elk kubernetes spring boot kafka mongodb postgresql docker kotlin
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,14670cec-aedf-3aa7-aa4e-37486bca0aca,4,False,no,,4,java разработчик,spring framework hibernate orm postgresql ооп mvc junit rest jpa liquibase spring data kafka java sql apache maven apache tomcat
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,fd0ccbd0-3a58-3818-8691-98f31de17527,4,False,relevant_high,,17,java разработчик,java kotlin spring framework sql postgresql linux hibernate orm docker spring boot gradle kubernetes javascript elasticsearch redis rabbitmq kafka apache maven jenkins
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,d1fde183-f35a-3a06-8f43-c14768e18f9c,4,False,relevant_high,,5,java разработчик,java kotlin spring framework spring boot apache kafka docker postgresql kubernetes mongodb gradle maven jenkins git gitlab ооп
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,270ac4ca-75b8-343f-8b18-2f5ae400ba68,4,False,relevant_high,,4,java разработчик,spring framework hibernate orm apache maven sql postgresql git atlassian jira docker rest oracle kafka spring boot jpa gradle jenkins lombok liquibase openshift
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,a5187b56-f86c-3996-8797-57d178821222,4,False,relevant_high,,5,java разработчик,spring boot spring data jenkins git openshift docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,d9847b13-dc30-36e7-8d75-c632495a7eec,4,True,relevant_high,,15,java разработчик,git mysql postgresql java javascript rest apache maven gradle kotlin junit linux intellij idea sql redis jpa rabbitmq
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,4aac459a-0536-355b-ad4a-834acf6cc4cf,4,False,relevant_high,,6,java разработчик,mysql java intellij idea redis kafka git ооп javascript sql spring framework junit apache maven gradle docker jenkins
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,73592479-12bf-38d4-84f0-91fe33518b47,4,False,relevant_high,,9,java разработчик,java kotlin
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,522e9bea-52e1-3e3c-aa9f-e97e554195f7,4,True,relevant_high,,3,java разработчик,java spring framework git sql hibernate orm postgresql apache maven ооп intellij idea junit mysql mvc apache kafka
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,fac1867b-8ca6-3d94-988e-7dab0d465b7f,4,False,relevant_high,,9,java разработчик,java sql postgresql
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,6f48fd66-a056-3172-af60-632f22844934,4,False,relevant_high,,14,java разработчик,java rabbitmq kafka redis postgresql apache maven gradle docker jenkins openshift rest apache tomcat hibernate orm kubernetes gitlab
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,feedc674-8547-35d0-9f63-fd6a3d3fedcd,4,True,relevant_high,,8,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,5c8ce3e9-f9dd-3ed2-b044-d55c2957937e,4,False,relevant_high,,2,java разработчик,mysql ооп postgresql java junit git hibernate
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,fbab422e-7e0b-38d2-a7bc-cc7286858c10,4,True,relevant_high,,7,java разработчик,mysql git intellij idea postgresql spring framework hibernate orm mongodb jenkins kafka docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,1ed1795c-43b2-304e-8386-bf53d0ebec18,4,False,relevant_high,,6,java разработчик,rabbitmq redis hibernate postgresql
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,0f6a912b-c462-3bec-a632-c219f51e0b3c,4,True,relevant_high,,4,java разработчик,java docker kafka rabbitmq openshift maven hibernate orm oracle postgresql mongodb redis mysql sql junit git gitlab jira rest ооп
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,37cba700-eed6-3018-bad6-f720f8217aeb,4,True,relevant_high,,16,java разработчик,java spring framework spring boot hibernate postgresql maven gitlab sql docker jira
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,3e9618c4-7ed0-35d7-9c4c-71c06361fc21,4,True,relevant_high,,4,java разработчик,spring boot hibernate postgresql mongodb apache kafka elk redis
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,da445603-1f91-341f-93da-6b29c95aa35c,4,True,relevant_high,,4,java разработчик,java kafka apache maven jenkins postgresql sql hibernate orm docker liquibase junit apache tomcat lombok jpa rest jdbc git elk jira
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,96354edc-4225-333b-9c37-df48057fcaf8,4,False,relevant_high,,5,java разработчик,java spring framework git kafka linux
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,f111eaab-2416-33f5-8a95-8ec11e8485c4,4,False,relevant_high,,8,java разработчик,java
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,c70de373-9f3a-3647-ab66-f25e98c29409,4,False,relevant_high,,8,java разработчик,java mvc spring boot kafka oracle docker postgresql hibernate maven
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,0825069f-c8ee-3ca9-b4f2-753b7a85688a,4,False,relevant_high,,2,java разработчик,java sql apache maven postgresql docker spring boot gradle junit hibernate kotlin
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,da6466e6-0b6d-36aa-adbf-9f0e4fdd6b3f,4,False,relevant_high,,14,java разработчик,java javascript linux docker kubernetes
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,d9fffe2b-cba9-3ff2-bd47-b8bfc48cbe89,4,False,relevant_high,,6,java разработчик,java postgresql git apache maven junit ооп mysql atlassian jira intellij idea kafka redis elasticsearch spring framework javascript gitlab
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,f6f396d8-5527-3610-8d0d-13768d9b3ec9,4,False,relevant_high,,7,java разработчик,spring boot postgresql redis kafka elk gradle docker junit mockito git intellij idea
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,9a9b0a97-3514-3137-b8b8-129474b24528,4,True,relevant_high,,5,java разработчик,java sql spring framework rabbitmq spring boot spring data redis mongodb kafka docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,53a2a38b-4fef-3d65-8d6d-818d5e80dbfa,4,True,relevant_high,,3,java разработчик,java git sql mysql ооп postgresql spring framework apache maven mvc rest oracle junit spring boot jpa hibernate orm docker apache kafka gradle spring data kubernetes jira lombok
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,5b52397d-7c55-3f10-82cb-3797709a51e5,4,True,no,,4,java разработчик,java sql git postgresql hibernate orm kafka jdbc kubernetes openshift rabbitmq maven redis elk
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,f4f84f9b-6c7a-366d-b8b4-84b0e6f337c7,4,False,relevant_high,,8,java разработчик,docker postgresql jdbc spring boot kubernetes apache kafka linux
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,f61558f7-5769-37e0-b03d-80ff86d0a6bf,4,True,relevant_high,,3,java разработчик,java spring framework sql postgresql hibernate orm git apache maven kafka rest junit apache kafka redis kubernetes docker jdbc spring boot hibernate lombok
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,87093480-2ef4-3d14-a30e-0c4cf41b93da,4,True,relevant_high,,19,java разработчик,postgresql linux git docker jenkins apache tomcat
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,ebcd86ef-6e1f-39cf-8af3-85adaec6d3b3,4,False,relevant_high,,11,java разработчик,mysql java javascript
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,ad355c5f-fa08-3d9e-96e2-73b49d1a390a,4,False,relevant_high,,4,java разработчик,java hibernate postgresql
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,4843fc31-6392-369c-a2ee-eaa7a26ec7e1,4,True,relevant_high,,4,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,cce6a630-720f-3013-8b7b-1720b784cc86,4,True,relevant_high,,4,java разработчик,java mysql javascript gradle sql docker git jdbc postgresql atlassian jira spring framework kotlin ооп apache tomcat gitlab
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,0fe70aee-589a-3ba7-8479-d8f2f83b0921,4,True,no,,4,java разработчик,spring framework hibernate orm sql postgresql ооп rest junit git mvc spring boot spring data apache maven kafka elk docker java
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,6927466d-20e7-3873-9267-83fc9bfa4037,4,False,relevant_high,,10,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,e59d1c07-489b-3299-803f-5dea7da43b56,4,False,relevant_high,,9,java разработчик,java spring boot postgresql
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,3bbc8c32-ba6f-3f3f-a469-ea009295a1ab,4,False,relevant_high,,6,java разработчик,mvc maven postgresql liquibase rabbitmq docker gitlab jenkins jira linux
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,0b1a7596-d9dc-37de-a154-90f3bfdc8ce6,4,True,relevant_high,,4,java разработчик,java sql spring framework hibernate orm jpa spring data rest spring boot apache maven gradle lombok junit postgresql git docker apache kafka mongodb liquibase intellij idea kotlin
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,e3a42770-927c-3d59-a761-bcc3549d1054,4,True,courses,,7,java разработчик,sql git mysql spring framework spring boot apache maven elk lombok hibernate orm apache kafka gradle junit
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,93d61f89-b8d0-3187-8c90-888be29e68dd,4,False,no,,9,java разработчик,java git ооп linux mysql sql docker
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,156ce0c2-d834-3e8e-ba17-3b35e68bbf10,4,False,relevant_high,,7,java разработчик,java junit spring framework liquibase hibernate jpa oracle postgresql javascript docker mongodb rabbitmq sql kotlin kafka
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,62092df7-1166-3602-b509-a4df3999ffe5,4,True,relevant_high,,7,java разработчик,java spring framework jdbc apache maven gradle git junit intellij idea postgresql oracle linux rest mongodb
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,bd53a1ea-ae17-3506-97b4-287aa8e9cc21,4,False,relevant_high,,7,java разработчик,jdbc postgresql kafka elk docker kubernetes jira
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,64d2b2a9-98df-37a6-a326-a223db297718,4,True,no,,3,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,0f45f507-0b5d-347f-86e2-0f799898f812,4,True,no,,3,java разработчик,spring framework java sql hibernate orm postgresql ооп rest intellij idea gitlab mvc jpa spring boot junit lombok maven
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,17c3be62-5893-3e43-a5a6-537780aef3ff,4,False,relevant_high,,4,java разработчик,java spring framework
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,11ac90f4-ea3d-3c82-8cf7-19f9c4da8ad0,4,True,relevant_high,,14,java разработчик,java junit spring framework git intellij idea apache maven kotlin
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,82df355a-235e-3046-9e6e-782ddf1600eb,4,True,relevant_high,,3,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,915597ce-24e5-31fa-8dca-29437f49f839,4,True,courses,,11,java разработчик,hibernate orm rest spring boot postgresql
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,f288a532-0b58-30cb-ac3c-f87e53984719,4,False,relevant_high,,5,java разработчик,
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,3e3a379f-226e-305e-b7d8-cf341e00cbd7,4,True,relevant_high,,3,java разработчик,linux apache maven intellij idea apache tomcat junit git mvc spring data postgresql spring boot
+8b9c8d16-c7f0-38a2-b80c-d94030c15a6f,cc88bf96-f0b9-313a-abce-dbe60b6f1c98,4,False,relevant_high,,14,java разработчик,kotlin java
