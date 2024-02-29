@@ -6,6 +6,4 @@ def index() -> str:
     return "Hello World!"
 
 
-app: Litestar = Litestar(
-    [index]
-)
+app: Litestar = Litestar([index])

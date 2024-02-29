@@ -3,7 +3,7 @@ import json
 from pydantic import TypeAdapter
 
 from resume_filter import settings
-from resume_filter.models import SortedCandidateSelection, CandidateSelection
+from resume_filter.models import CandidateSelection, SortedCandidateSelection
 
 
 FILENAME: str = "case_2_data_for_members.json"
@@ -22,9 +22,7 @@ sorted_candidate_selection: list[SortedCandidateSelection] = TypeAdapter(
     list[SortedCandidateSelection]
 ).validate_python(json_dict)
 
-candidate_selection: CandidateSelection = TypeAdapter(
-    CandidateSelection
-).validate_python(json_dict2)
+candidate_selection: CandidateSelection = TypeAdapter(CandidateSelection).validate_python(json_dict2)
 
 
 print(sorted_candidate_selection)
