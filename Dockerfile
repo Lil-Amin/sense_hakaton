@@ -11,5 +11,5 @@ COPY . .
 RUN pip install --no-cache-dir poetry==${POETRY_VERSION}
 RUN poetry install --only main
 
-EXPOSE 8000
-ENTRYPOINT poetry run uvicorn --app-dir ${APPDIR} resume_filter:app
+EXPOSE 80
+ENTRYPOINT poetry run uvicorn --app-dir ${APPDIR} --port 80 resume_filter:app
