@@ -113,6 +113,7 @@ def data_to_output(data: pd.DataFrame) -> pd.DataFrame:
          'target',
          'resume_experience',
          'resume_description',
+         'vacancy_description',
          ]
     ].copy()
     output['vacancy_main_keywords'] = data['vacancy_main_keywords'].apply(lambda x: ' '.join(x))
