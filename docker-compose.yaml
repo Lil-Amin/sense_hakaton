@@ -2,7 +2,15 @@ version: '3.7'
 services:
   sense:
     container_name: sense_c
-    image: cr.yandex/crpsivlnu51n9aju1p55/sense_h:latest
+    image: cr.yandex/crpsivlnu51n9aju1p55/sense_h@sha256:55b7168500ff5012f8da614e99896d865d9beff902acf569a836ea4f57778dc3
+    ports:
+      - "8080:8080"
+    restart: always
+  front:
+    container_name: sense_front
+    image: cr.yandex/crpsivlnu51n9aju1p55/sense_front@sha256:f55d05144fe3059eff7f7c1c4a06eae68a7bf22158fd6cf4d61b0748ffbe530c
     ports:
       - "80:80"
     restart: always
+    environment:
+      - API_URL=http://158.160.77.123:8080/filter_resumes
