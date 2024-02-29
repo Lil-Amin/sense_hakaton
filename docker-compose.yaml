@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+  sense:
+    container_name: sense_c
+    image: cr.yandex/crpsivlnu51n9aju1p55/sense_h:latest
+    ports:
+      - "80:80"
+    restart: always
