@@ -10,6 +10,7 @@ python = "^3.11"
 litestar = "^2.6.1"
 pandas = "^2.2.1"
 pydantic = "^2.6.3"
+uvicorn = "^0.27.1"
 
 
 [tool.poetry.group.dev.dependencies]
