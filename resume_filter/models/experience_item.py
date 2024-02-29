@@ -8,8 +8,8 @@ class ExperienceItem(BaseModel):
     ends: datetime.date | None
     employer: str
     city: str
-    position: str
-    description: str | None
+    position: str | None = ""
+    description: str | None = ""
 
     # def __init__(self, starts, ends, employer, city, position, description):
     #     self.starts = datetime.strptime(starts, '%Y-%m-%d')

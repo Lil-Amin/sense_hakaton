@@ -9,11 +9,11 @@ class Resume(BaseModel):
     uuid: str
     first_name: str
     last_name: str
-    birth_date: str | None
-    country: str
-    city: str
-    about: str | None
-    key_skills: str | None
+    birth_date: str | None = ""
+    country: str | None = ""
+    city: str | None = ""
+    about: str | None = ""
+    key_skills: str | None = ""
     experienceItem: list[ExperienceItem] | None = None
     educationItem: list[EducationItem] | None = None
     languageItems: list[str] | None = None
