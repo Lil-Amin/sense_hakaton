@@ -31,7 +31,7 @@ def parse_education_items(education_items: list[EducationItem]) -> str:
     return 'courses'
 
 
-def get_data(vacancy: Vacancy, resume: Resume, target: bool) -> dict[str, any]:
+def get_data(vacancy: Vacancy, resume: Resume, target: bool | None) -> dict[str, any]:
     data: TransformedData = TransformedData()
     data.vacancy_id = vacancy.uuid
     vacancy_name: str = vacancy.name.lower()
