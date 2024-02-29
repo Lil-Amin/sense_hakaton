@@ -88,17 +88,14 @@ def process_data(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def data_to_output(data: pd.DataFrame) -> pd.DataFrame:
-    output = data[['vacancy_id', 'resume_id', 'requested_experience', 'is_english', 'edu', 'target', 'resume_experience']].copy()
+    output = data[
+        ['vacancy_id', 'resume_id', 'requested_experience', 'is_english', 'edu', 'target', 'resume_experience']].copy()
     output['vacancy_main_keywords'] = data['vacancy_main_keywords'].apply(lambda x: ' '.join(x))
     output['resume_main_keywords'] = data['resume_main_keywords'].apply(lambda x: ' '.join(x))
     return output
 
 
-def main():
-    current_dir = os.path.dirname(os.getcwd())
-    parent_dir = os.path.dirname(current_dir)
-    file_path = os.path.join(parent_dir, 'case_2_data_for_members.json')
-    vacancies = parse_file(file_path)
+def get_df_from_vacancies(vacancies: list[Vacancy]) -> pd.DataFrame:
     results = []
     for vacancy in vacancies:
         for resume in vacancy.failed_resumes:
@@ -108,7 +105,15 @@ def main():
             result = get_data(vacancy, resume, True)
             results.append(result)
     df_results = pd.DataFrame(results)
+    return df_results
 
+
+def main():
+    current_dir = os.path.dirname(os.getcwd())
+    parent_dir = os.path.dirname(current_dir)
+    file_path = os.path.join(parent_dir, 'case_2_data_for_members.json')
+    vacancies = parse_file(file_path)
+    df_results = get_df_from_vacancies(vacancies)
     data = process_data(df_results)
     output = data_to_output(data)
     output.to_csv('case_2_results.csv', index=False)
