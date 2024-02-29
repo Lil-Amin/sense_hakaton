@@ -4,12 +4,12 @@ from pydantic import BaseModel
 
 
 class ExperienceItem(BaseModel):
-    starts: datetime.datetime
-    ends: datetime.datetime
+    starts: datetime.date | None
+    ends: datetime.date | None
     employer: str
     city: str
     position: str
-    description: str
+    description: str | None
 
     # def __init__(self, starts, ends, employer, city, position, description):
     #     self.starts = datetime.strptime(starts, '%Y-%m-%d')

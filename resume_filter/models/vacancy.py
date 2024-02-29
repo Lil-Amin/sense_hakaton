@@ -4,9 +4,7 @@ from pydantic import BaseModel
 class Vacancy(BaseModel):
     uuid: str
     name: str
-    keywords: str
+    keywords: str | None
     description: str
-    comment: str
-    requested_experience: int
-    # failed_resumes: list[Resume]
-    # confirmed_resumes: list[Resume]
+    comment: str | None
+    requested_experience: int | None
