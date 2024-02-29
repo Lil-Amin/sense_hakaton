@@ -7,4 +7,4 @@ class Vacancy(BaseModel):
     keywords: str | None
     description: str
     comment: str | None
-    requested_experience: int | None
+    requested_experience: int | None = None
